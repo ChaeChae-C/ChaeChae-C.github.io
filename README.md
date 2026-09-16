@@ -61,7 +61,20 @@ h2{font-size:1.5em;font-weight:800;margin:0;letter-spacing:-.01em}
 .card h3{font-size:1.14em;font-weight:800;margin:0 0 8px}
 .card p{margin:0 0 14px;color:var(--ink-soft)}
 .card strong{color:var(--ink)}
-pre{margin:0 0 14px;background:var(--ground);border:1px solid var(--line);border-radius:10px;padding:18px;font-family:"Nanum Gothic Coding","D2Coding",monospace;font-size:.98em;line-height:1.85;white-space:pre-wrap;word-break:break-word;overflow-x:auto}
+pre{
+  margin:0 0 14px;
+  background:var(--surface);
+  color:var(--ink);
+  border:1px solid var(--line);
+  border-radius:10px;
+  padding:18px;
+  font-family:"Nanum Gothic Coding","D2Coding",monospace;
+  font-size:.98em;
+  line-height:1.85;
+  white-space:pre-wrap;
+  word-break:break-word;
+  overflow-x:auto
+}
 .ph{color:var(--mark-ink);font-weight:700;background:var(--mark-bg);box-shadow:inset 0 0 0 1px var(--mark-line);border-radius:4px;padding:1px 4px}
 button.copy{display:flex;align-items:center;justify-content:center;gap:9px;width:100%;min-height:58px;border:none;border-radius:10px;background:var(--accent);color:#fff;font-family:inherit;font-size:1.05em;font-weight:800;cursor:pointer}
 button.copy:hover{background:var(--accent-deep)}
