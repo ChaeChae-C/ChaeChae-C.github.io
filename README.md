@@ -255,6 +255,14 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <span class="addr">bit.ly/업스킬링</span>
 </div>
 
+결과물 올리는 곳
+여기에 주소를 입력하세요
+
+QR코드 만들기
+[ https://example.com              ] [QR코드 만들기]
+
+        ▣ QR코드
+
 <footer>
   <p><b>마치기 전에 꼭</b> — 필요한 안내 문구를 입력하세요.</p>
 </footer>
