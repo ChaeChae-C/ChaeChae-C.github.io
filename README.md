@@ -118,10 +118,9 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <div class="toolbar-inner">
     <nav class="jump" aria-label="바로가기">
       <a href="#s1">1 제미나이 개인 환경 구축하기 </a>
-      <a href="#s2">2 두 번째</a>
-      <a href="#s3">3 세 번째</a>
-      <a href="#s4">4 네 번째</a>
-      <a href="#s5">5 다섯 번째</a>
+      <a href="#s2">2 명언 엽서 만들기</a>
+      <a href="#s3">3 감성 시화 작품 만들기</a>
+      <a href="#s4">4 모임/행사 초대장 만들기</a>
     </nav>
     <div class="sizer">
       <span>글자</span>
