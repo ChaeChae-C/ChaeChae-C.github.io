@@ -241,7 +241,7 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 
 <div class="banner">
   <span class="label">결과물 올리는 곳</span>
-  <span class="addr">여기에 주소를 입력하세요</span>
+  <span class="addr">bit.ly/업스킬링</span>
 </div>
 
 <footer>
