@@ -255,13 +255,47 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <span class="addr">bit.ly/업스킬링</span>
 </div>
 
-결과물 올리는 곳
-여기에 주소를 입력하세요
+<div style="margin-top: 20px;">
+  <h3>QR코드 만들기</h3>
 
-QR코드 만들기
-[ https://example.com              ] [QR코드 만들기]
+  <input
+    type="text"
+    id="qr-link"
+    placeholder="https://example.com"
+    style="width:70%; padding:12px; border:1px solid #ccc; border-radius:8px;"
+  >
 
-        ▣ QR코드
+  <button
+    onclick="makeQR()"
+    style="padding:12px 18px; border:none; border-radius:8px; background:#426da9; color:white; font-weight:bold; cursor:pointer;"
+  >
+    QR코드 만들기
+  </button>
+
+  <div id="qrcode" style="margin-top:20px;"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+
+<script>
+function makeQR() {
+  const link = document.getElementById("qr-link").value.trim();
+  const qrBox = document.getElementById("qrcode");
+
+  if (!link) {
+    alert("링크를 입력해주세요.");
+    return;
+  }
+
+  qrBox.innerHTML = "";
+
+  new QRCode(qrBox, {
+    text: link,
+    width: 200,
+    height: 200
+  });
+}
+</script>
 
 <footer>
   <p><b>마치기 전에 꼭</b> — 필요한 안내 문구를 입력하세요.</p>
