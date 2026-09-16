@@ -117,7 +117,7 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 <div class="toolbar">
   <div class="toolbar-inner">
     <nav class="jump" aria-label="바로가기">
-      <a href="#s1">1 첫 번째</a>
+      <a href="#s1">1 제미나이 개인 환경 구축하기 </a>
       <a href="#s2">2 두 번째</a>
       <a href="#s3">3 세 번째</a>
       <a href="#s4">4 네 번째</a>
@@ -134,20 +134,19 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 <div class="wrap">
 
 <header class="masthead">
-  <p class="eyebrow">교육 프로그램 · 회차</p>
+  <p class="eyebrow">교육 프로그램 · 4회차</p>
   <h1>페이지 제목을 여기에 입력하세요</h1>
   <p class="lede">페이지에 대한 간단한 설명을 여기에 입력하세요. <strong>복사 버튼</strong>을 누르면 아래 문장이 복사됩니다.</p>
 </header>
 
 <section id="s1">
-  <div class="sec-head"><span class="sec-num">1</span><h2>첫 번째 주제</h2></div>
+  <div class="sec-head"><span class="sec-num">1</span><h2>제미나이 개인 환경 구축하기</h2></div>
   <p class="sec-note">이 부분에 주제에 대한 간단한 설명을 입력하세요.</p>
 
   <div class="card">
     <h3>첫 번째 내용</h3>
     <p>필요한 설명을 입력하세요.</p>
-    <pre data-copy>[복사할 문장을 입력하세요.]
-[바꿔야 할 부분은 대괄호로 표시하세요.]</pre>
+    <pre data-copy>[당신은 나의 친절하고 똑똑한 24시간 개인 비서입니다. 전문 용어는 피하고 누구나 이해할 수 있는 쉬운 단어로 설명해 주세요. 글씨가 너무 빽빽하지 않게 줄 바꿈과 기호를 적극 활용해 주시고, 핵심 내용을 먼저 말한 뒤 상세한 설명을 덧붙여 주세요. 항상 따뜻하고 격려하는 정중한 어조로 대화해 주세요.]</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
