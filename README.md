@@ -246,27 +246,35 @@ We have no time to stand and stare.
 </section>
 
 <section id="s3">
-  <div class="sec-head"><span class="sec-num">3</span><h2>세 번째 주제</h2></div>
+  <div class="sec-head"><span class="sec-num">3</span><h2>짧은 글쓰기</h2></div>
   <p class="sec-note">아래 프롬프트를 복사-붙여넣기 해보세요.</p>
 
     <div class="card">
     <h3>복사할 문장</h3>
-    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
-여러 줄로 작성해도 됩니다.</pre>
+    <pre data-copy>소중한 친구(지인)에게 보낼 추석 인사말을 만들어줘.
+
+대상: 50~60대 친구
+분위기: 정겹고 따뜻하며 부담 없는 느낌 (이모지 포함)
+내용: 그동안의 안부를 묻고, 이번 추석에 맛있는 것 많이 먹고 가족들과 행복한 시간 보내라는 격려의 메시지 포함
+</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
     <h3>복사할 문장</h3>
-    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
-여러 줄로 작성해도 됩니다.</pre>
+    <pre data-copy>오랫동안 연락을 못 하던 지인에게 보내는 어색하지 않은 추석 인사 문구를 작성해줘.
+
+대상: 연락이 뜸했던 사회 지인이나 옛 동료
+분위기: 무겁지 않고 정중하면서도 반가움이 드러나는 느낌
+내용: 갑작스러운 연락에 대한 양해와 함께, 명절을 맞아 건강과 안부를 묻는 자연스러운 흐름으로 작성해줘.
+</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
     <h3>복사할 문장</h3>
-    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
-여러 줄로 작성해도 됩니다.</pre>
+    <pre data-copy>이 추석 인사 문구를 넣어서, 따뜻하고 정겨운 한옥과 보름달 배경의 이미지를 만들어줘.
+</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
