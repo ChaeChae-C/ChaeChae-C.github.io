@@ -116,10 +116,10 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 <div class="toolbar">
   <div class="toolbar-inner">
     <nav class="jump" aria-label="바로가기">
-      <a href="#s1">1 제미나이 개인 환경 구축하기 </a>
-      <a href="#s2">2 명언 엽서 만들기</a>
-      <a href="#s3">3 감성 시화 작품 만들기</a>
-      <a href="#s4">4 모임/행사 초대장 만들기</a>
+      <a href="#s1">1 '나'를 위한 AI 환경 설정하기</a>
+      <a href="#s2">2 요약/번역하기</a>
+      <a href="#s3">3 짧은 글쓰기</a>
+      <a href="#s4">4 기타 활동</a>
     </nav>
     <div class="sizer">
       <span>글자</span>
@@ -133,7 +133,7 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 
 <header class="masthead">
   <p class="eyebrow">교육 프로그램 · 4회차</p>
-  <h1>페이지 제목을 여기에 입력하세요</h1>
+  <h1>AI와 일상, AI와 직무</h1>
   <p class="lede">페이지에 대한 간단한 설명을 여기에 입력하세요. <strong>복사 버튼</strong>을 누르면 아래 문장이 복사됩니다.</p>
 </header>
 
