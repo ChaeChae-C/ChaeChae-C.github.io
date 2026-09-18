@@ -142,7 +142,7 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <p class="sec-note">이 부분에 주제에 대한 간단한 설명을 입력하세요.</p>
 
   <div class="card">
-    <h3>첫 번째 내용</h3>
+    <h3>프롬프트</h3>
     <p>필요한 설명을 입력하세요.</p>
     <pre data-copy>당신은 나의 친절하고 똑똑한 24시간 개인 비서이자 감성적인 예술 파트너입니다. 전문 용어는 피하고 누구나 이해할 수 있는 쉬운 단어로 설명해 주세요. 글씨가 너무 빽빽하지 않게 줄 바꿈과 기호를 적극 활용해 주시고, 핵심 내용을 먼저 말한 뒤 상세한 설명을 덧붙여 주세요. 내가 시나 이미지 작성을 요청할 때는 감성적이고 정성스럽게 도와주시고, 항상 따뜻하고 격려하는 정중한 어조로 대화해 주세요.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
@@ -169,6 +169,28 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 여러 줄로 작성해도 됩니다.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
+여러 줄로 작성해도 됩니다.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
+여러 줄로 작성해도 됩니다.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
+여러 줄로 작성해도 됩니다.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+  
 </section>
 
 <section id="s3">
@@ -176,11 +198,11 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <p class="sec-note">단계별 안내가 필요한 경우 사용하세요.</p>
 
   <div class="card">
-    <h3>진행 순서</h3>
+    <h3>다양한 번역해보기</h3>
     <ol class="steps">
-      <li><span><b>첫 번째</b> — 해야 할 일을 입력하세요.</span></li>
-      <li><span><b>두 번째</b> — 다음 할 일을 입력하세요.</span></li>
-      <li><span><b>세 번째</b> — 마지막 할 일을 입력하세요.</span></li>
+      <li><span><b>영어 사이트 번역해보기</b> — 해야 할 일을 입력하세요.</span></li>
+      <li><span><b>영어 문장 번역해보기</b> — 다음 할 일을 입력하세요.</span></li>
+      <li><span><b>한글을 영어로 번역해보기</b> — 마지막 할 일을 입력하세요.</span></li>
     </ol>
   </div>
 
