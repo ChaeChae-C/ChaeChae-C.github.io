@@ -195,23 +195,28 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 
 <section id="s3">
   <div class="sec-head"><span class="sec-num">3</span><h2>세 번째 주제</h2></div>
-  <p class="sec-note">단계별 안내가 필요한 경우 사용하세요.</p>
+  <p class="sec-note">아래 프롬프트를 복사-붙여넣기 해보세요.</p>
 
-  <div class="card">
-    <h3>다양한 번역해보기</h3>
-    <ol class="steps">
-      <li><span><b>영어 사이트 번역해보기</b> — 해야 할 일을 입력하세요.</span></li>
-      <li><span><b>영어 문장 번역해보기</b> — 다음 할 일을 입력하세요.</span></li>
-      <li><span><b>한글을 영어로 번역해보기</b> — 마지막 할 일을 입력하세요.</span></li>
-    </ol>
-  </div>
-
-  <div class="card">
-    <h3>프롬프트</h3>
-    <pre data-copy>여기에 프롬프트를 입력하세요.</pre>
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
+여러 줄로 작성해도 됩니다.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
-</section>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
+여러 줄로 작성해도 됩니다.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
+여러 줄로 작성해도 됩니다.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
 
 <section id="s4">
   <div class="sec-head"><span class="sec-num">4</span><h2>네 번째 주제</h2></div>
