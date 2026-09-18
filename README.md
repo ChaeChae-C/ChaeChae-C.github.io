@@ -172,7 +172,7 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
     <div class="card">
     <h3>구글 워크스페이스 활용하기</h3>
     <div class="chips">
-      <button class="chip" type="button" data-copy="@Gmail 최근 일주일 사이에 온 메일 중에 아직 안 읽은 메일 목록 보여줘.">첫 번째 문장<span class="tag">복사</span></button>
+      <button class="chip" type="button" data-copy="">@Gmail 최근 일주일 사이에 온 메일 중에 아직 안 읽은 메일 목록 보여줘.<span class="tag">복사</span></button>
       <button class="chip" type="button" data-copy="다음 주 화요일 오후 3시에 '치과 검진' 일정 구글 캘린더에 등록해줘.">두 번째 문장<span class="tag">복사</span></button>
       <button class="chip" type="button" data-copy="대한민국 화폐 단위(원)를 기준으로, 모임 회비 관리용 표 만들어줘. 완성되면 구글 시트로 보내줘.">세 번째 문장<span class="tag">복사</span></button>
       <button class="chip" type="button" data-copy="여기에 네 번째 문장을 입력하세요.">네 번째 문장<span class="tag">복사</span></button>
