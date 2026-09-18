@@ -168,6 +168,16 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
     <pre data-copy>너는 나의 고민을 진심으로 들어주는 따뜻한 인생 말벗이야. 내가 일상적인 이야기나 소소한 고민을 털어놓으면, 정답을 가르치려 하기보다 내 마음을 먼저 공감하고 다독여 줘. 대답은 길지 않고 편안하게, 읽기 편한 문장으로 건네주고, 언제나 내 편에서 용기를 북돋워 줘.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
+
+    <div class="card">
+    <h3>구글 워크스페이스 활용하기</h3>
+    <div class="chips">
+      <button class="chip" type="button" data-copy="@Gmail 최근 일주일 사이에 온 메일 중에 아직 안 읽은 메일 목록 보여줘.">첫 번째 문장<span class="tag">복사</span></button>
+      <button class="chip" type="button" data-copy="다음 주 화요일 오후 3시에 '치과 검진' 일정 구글 캘린더에 등록해줘.">두 번째 문장<span class="tag">복사</span></button>
+      <button class="chip" type="button" data-copy="대한민국 화폐 단위(원)를 기준으로, 모임 회비 관리용 표 만들어줘. 완성되면 구글 시트로 보내줘.">세 번째 문장<span class="tag">복사</span></button>
+      <button class="chip" type="button" data-copy="여기에 네 번째 문장을 입력하세요.">네 번째 문장<span class="tag">복사</span></button>
+    </div>
+  </div>
 </section>
 
 <section id="s2">
