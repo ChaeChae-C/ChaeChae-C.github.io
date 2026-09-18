@@ -185,8 +185,15 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 
   <div class="card">
     <h3>복사할 문장</h3>
-    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
-여러 줄로 작성해도 됩니다.</pre>
+    <pre data-copy>https://www.jobkorea.co.kr/recruit/careers/articles/internal-ai-automation-cases
+위의 글 요약해줘</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>https://www.youtube.com/watch?v=R-02LYDHnBo&t=155s
+이 영상을 요약해줘</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
@@ -199,15 +206,26 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 
     <div class="card">
     <h3>복사할 문장</h3>
-    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
-여러 줄로 작성해도 됩니다.</pre>
-    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
-  </div>
+    <pre data-copy>Leisure
+ 
+By W. H. Davies
+​
+What is this life if, full of care,
+We have no time to stand and stare?
+No time to stand beneath the boughs
+And stare as long as sheep or cows:
+No time to see, when woods we pass,
+Where squirrels hide their nuts in grass:
+No time to see, in broad daylight,
+Streams full of stars, like skies at night:
+No time to turn at Beauty’s glance,
+And watch her feet, how they can dance:
+No time to wait till her mouth can
+Enrich that smile her eyes began?
+A poor life this if, full of care,
+We have no time to stand and stare.
 
-    <div class="card">
-    <h3>복사할 문장</h3>
-    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
-여러 줄로 작성해도 됩니다.</pre>
+위 영어 시의 아름다운 운율과 서정적인 감성을 살려서, 한국 시(詩)처럼 여운이 남고 감성적인 문장으로 번역해 줘</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
   
