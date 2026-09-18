@@ -119,7 +119,6 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
       <a href="#s1">1 '나'를 위한 AI 환경 설정하기</a>
       <a href="#s2">2 요약/번역하기</a>
       <a href="#s3">3 짧은 글쓰기</a>
-      <a href="#s4">4 기타 활동</a>
     </nav>
     <div class="sizer">
       <span>글자</span>
@@ -128,6 +127,33 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
     </div>
   </div>
 </div>
+
+<script>
+  // 변경할 대상 선택 (여기서는 body 전체의 글자 크기를 조절합니다)
+  const targetElement = document.body; 
+  
+  const smallerBtn = document.getElementById('smaller');
+  const biggerBtn = document.getElementById('bigger');
+
+  // 기본 글자 크기 설정 (16px)
+  let currentSize = 16; 
+
+  // 글자 작게 버튼 클릭 시
+  smallerBtn.addEventListener('click', () => {
+    if (currentSize > 12) { // 최소 크기 제한 (12px)
+      currentSize -= 2;
+      targetElement.style.fontSize = currentSize + 'px';
+    }
+  });
+
+  // 글자 크게 버튼 클릭 시
+  biggerBtn.addEventListener('click', () => {
+    if (currentSize < 30) { // 최대 크기 제한 (30px)
+      currentSize += 2;
+      targetElement.style.fontSize = currentSize + 'px';
+    }
+  });
+</script>
 
 <div class="wrap">
 
