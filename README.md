@@ -159,7 +159,7 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 
 <header class="masthead">
   <p class="eyebrow">교육 프로그램 · 4회차</p>
-  <h1>AI와 일상, AI와 직무</h1>
+  <h1>AI와 일상, AI와 업무</h1>
   <p class="lede">오늘 쓸 프롬프트가 순서대로 담겨 있습니다. <strong>복사 버튼</strong>을 누르면 아래 문장이 복사됩니다.</p>
 </header>
 
