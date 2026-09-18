@@ -276,6 +276,31 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
 
     <div class="card">
     <h3>복사할 문장</h3>
+    <pre data-copy>다음 내용을 바탕으로 친구들에게 보낼 친근한 [동창회 안내 문자]를 만들어줘.
+
+모임 이름: [시대고등학교 27회 졸업생] 모임
+날짜 및 시간: [10월 5일 토요일 오후 6시]
+장소: [서울역 앞 OO고깃집]
+분위기: 오랜만에 만나는 거라 반갑고 편안한 느낌으로 이모티콘 곁들여서 작성해 줘.
+</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>모임 날짜를 며칠 앞두고, 아직 참석 여부를 알려주지 않은 분들에게 보낼 리마인드(독려) 문자를 작성해줘.
+
+대상: 산악 동호회 모임 회원들
+분위기: [재촉하거나 부담 주는 느낌 없이, 따뜻하고 정중하게 안부를 물으며 인원을 확정해야 한다는 점을 알리는 느낌]
+모임정보 : [10월 5일 토요일 저녁 7시] / [강남역] / [다음주 수요일까지] 회신
+포함할 내용: 식당 예약과 준비 때문에 인원 확정이 필요하다는 점을 부드럽게 전하고, 바쁘겠지만 참석 여부를 꼭 회신해 달라는 당부의 멘트 
+
+</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
     <pre data-copy>소중한 친구(지인)에게 보낼 추석 인사말을 만들어줘.
 
 대상: 50~60대 친구
