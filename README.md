@@ -138,8 +138,8 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 </header>
 
 <section id="s1">
-  <div class="sec-head"><span class="sec-num">1</span><h2>제미나이 개인 환경 구축하기</h2></div>
-  <p class="sec-note">이 부분에 주제에 대한 간단한 설명을 입력하세요.</p>
+  <div class="sec-head"><span class="sec-num">1</span><h2>'나'를 위한 AI 환경 설정하기</h2></div>
+  <p class="sec-note">'나'만의 AI 환경 구성하기</p>
 
   <div class="card">
     <h3>복사할 문장</h3>
