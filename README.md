@@ -199,13 +199,6 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 
     <div class="card">
     <h3>복사할 문장</h3>
-    <pre data-copy>여기에 긴 프롬프트나 안내 문장을 입력하세요.
-여러 줄로 작성해도 됩니다.</pre>
-    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
-  </div>
-
-    <div class="card">
-    <h3>복사할 문장</h3>
     <pre data-copy>Leisure
  
 By W. H. Davies
@@ -226,6 +219,27 @@ A poor life this if, full of care,
 We have no time to stand and stare.
 
 위 영어 시의 아름다운 운율과 서정적인 감성을 살려서, 한국 시(詩)처럼 여운이 남고 감성적인 문장으로 번역해 줘</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>[오늘 날씨가 정말 좋네요! 좋은 하루 보내시고 주말에 뵙겠습니다.]
+위 한국어 문장을 외국 친구에게 보내는 것처럼, 다정하고 친근한 일상 영어로 번역해 줘.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+      <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>외국 쇼핑몰 고객센터에 보낼 1:1 문의글을 쓸거야. 물건이 파손되어 도착해서 교환을 받고 싶다는 내용을 명확하고 정중한 비즈니스 톤의 영어로 작성해 줘.
+</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+      <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>외국인 지인의 생일을 진심으로 축하해 주는 문자를 보낼 거야. 생일 진심으로 축하하고, 올해도 좋은 일만 가득하길 바란다는 말을 따뜻하고 다정한 감성으로 영어로 작성해 줘.
+</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
   
