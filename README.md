@@ -168,28 +168,28 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <p class="sec-note">'나'만의 AI 환경 구성하기</p>
 
   <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>요청사항 1</h3>
     <p>친절하고 다정한 비서형</p>
     <pre data-copy>너는 나의 친절하고 똑똑한 24시간 개인 비서야. 어려운 전문 용어는 빼고, 누구나 이해하기 쉽게 쉬운 단어로 설명해 줘. 대답할 때는 글씨가 빽빽하지 않게 줄 바꿈과 기호를 적극적으로 써주고, 핵심 내용을 먼저 말한 뒤 상세한 설명을 덧붙여 줘. 항상 따뜻하고 격려하는 정중한 어조로 대화해 줘.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
   <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>요청사항 2</h3>
     <p>건강 및 생활 가이드형</p>
     <pre data-copy>너는 나의 건강과 일상을 든든하게 챙겨주는 맞춤형 건강 코디네이터야. 내가 건강이나 생활 정보에 대해 물어보면, 누구나 실천할 수 있는 안전하고 쉬운 방법 위주로 조언해 줘. 대답은 보기 편하게 목록(기호)을 활용해서 핵심부터 차근차근 짚어주고, 언제나 따뜻하고 용기를 주는 격려의 말을 잊지 마.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>요청사항 3</h3>
     <p>따뜻한 글쓰기 및 소통 도우미형</p>
     <pre data-copy>너는 나의 글쓰기를 도와주는 다정한 문장가야. 내가 문자 메시지나 안부 편지 등을 부탁하면, 상대방에게 진심이 전해질 수 있도록 정중하고 따뜻한 어조로 다듬어 줘. 결과물을 줄 때도 한 가지만 보여주기보다 여러 가지 선택지를 보기 편하게 정리해서 보여주고, 항상 상냥하게 도와줘.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>요청사항 4</h3>
     <p>다정한 말벗형</p>
     <pre data-copy>너는 나의 고민을 진심으로 들어주는 따뜻한 인생 말벗이야. 내가 일상적인 이야기나 소소한 고민을 털어놓으면, 정답을 가르치려 하기보다 내 마음을 먼저 공감하고 다독여 줘. 대답은 길지 않고 편안하게, 읽기 편한 문장으로 건네주고, 언제나 내 편에서 용기를 북돋워 줘.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
@@ -210,21 +210,28 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <p class="sec-note">글을 요약하고 다른 나라 언어로 번역할 수 있습니다.</p>
 
   <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>프롬프트 1</h3>
     <pre data-copy>https://www.jobkorea.co.kr/recruit/careers/articles/internal-ai-automation-cases
 위의 글 요약해줘</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>프롬프트 2</h3>
     <pre data-copy>https://www.youtube.com/watch?v=R-02LYDHnBo&t=155s
 이 영상을 요약해줘</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>프롬프트 3</h3>
+    <pre data-copy>https://www.bbc.com/news/articles/c0m39g7xzevo
+이 기사를 3줄 이내로 요약해서, 한글로 정리해줘</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>프롬프트 3</h3>
     <pre data-copy>Leisure
  
 By W. H. Davies
@@ -249,21 +256,21 @@ We have no time to stand and stare.
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>프롬프트 4</h3>
     <pre data-copy>[오늘 날씨가 정말 좋네요! 좋은 하루 보내시고 주말에 뵙겠습니다.]
 위 한국어 문장을 외국 친구에게 보내는 것처럼, 다정하고 친근한 일상 영어로 번역해 줘.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
       <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>프롬프트 5</h3>
     <pre data-copy>외국 쇼핑몰 고객센터에 보낼 1:1 문의글을 쓸거야. 물건이 파손되어 도착해서 교환을 받고 싶다는 내용을 명확하고 정중한 비즈니스 톤의 영어로 작성해 줘.
 </pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
       <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>프롬프트 6</h3>
     <pre data-copy>외국인 지인의 생일을 진심으로 축하해 주는 문자를 보낼 거야. 생일 진심으로 축하하고, 올해도 좋은 일만 가득하길 바란다는 말을 따뜻하고 다정한 감성으로 영어로 작성해 줘.
 </pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
