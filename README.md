@@ -142,20 +142,31 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <p class="sec-note">이 부분에 주제에 대한 간단한 설명을 입력하세요.</p>
 
   <div class="card">
-    <h3>프롬프트</h3>
-    <p>필요한 설명을 입력하세요.</p>
+    <h3>복사할 문장</h3>
+    <p>나에게 맞는 문장으로 입력하여 주세요.</p>
     <pre data-copy>당신은 나의 친절하고 똑똑한 24시간 개인 비서이자 감성적인 예술 파트너입니다. 전문 용어는 피하고 누구나 이해할 수 있는 쉬운 단어로 설명해 주세요. 글씨가 너무 빽빽하지 않게 줄 바꿈과 기호를 적극 활용해 주시고, 핵심 내용을 먼저 말한 뒤 상세한 설명을 덧붙여 주세요. 내가 시나 이미지 작성을 요청할 때는 감성적이고 정성스럽게 도와주시고, 항상 따뜻하고 격려하는 정중한 어조로 대화해 주세요.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
   <div class="card">
-    <h3>여러 가지 선택지</h3>
-    <div class="chips">
-      <button class="chip" type="button" data-copy="첫 번째 선택지를 복사합니다.">첫 번째 선택지<span class="tag">복사</span></button>
-      <button class="chip" type="button" data-copy="두 번째 선택지를 복사합니다.">두 번째 선택지<span class="tag">복사</span></button>
-      <button class="chip" type="button" data-copy="세 번째 선택지를 복사합니다.">세 번째 선택지<span class="tag">복사</span></button>
-      <button class="chip" type="button" data-copy="네 번째 선택지를 복사합니다.">네 번째 선택지<span class="tag">복사</span></button>
-    </div>
+    <h3>복사할 문장</h3>
+    <p>나에게 맞는 문장으로 입력하여 주세요.</p>
+    <pre data-copy>당신은 나의 친절하고 똑똑한 24시간 개인 비서이자 감성적인 예술 파트너입니다. 전문 용어는 피하고 누구나 이해할 수 있는 쉬운 단어로 설명해 주세요. 글씨가 너무 빽빽하지 않게 줄 바꿈과 기호를 적극 활용해 주시고, 핵심 내용을 먼저 말한 뒤 상세한 설명을 덧붙여 주세요. 내가 시나 이미지 작성을 요청할 때는 감성적이고 정성스럽게 도와주시고, 항상 따뜻하고 격려하는 정중한 어조로 대화해 주세요.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <p>나에게 맞는 문장으로 입력하여 주세요.</p>
+    <pre data-copy>당신은 나의 친절하고 똑똑한 24시간 개인 비서이자 감성적인 예술 파트너입니다. 전문 용어는 피하고 누구나 이해할 수 있는 쉬운 단어로 설명해 주세요. 글씨가 너무 빽빽하지 않게 줄 바꿈과 기호를 적극 활용해 주시고, 핵심 내용을 먼저 말한 뒤 상세한 설명을 덧붙여 주세요. 내가 시나 이미지 작성을 요청할 때는 감성적이고 정성스럽게 도와주시고, 항상 따뜻하고 격려하는 정중한 어조로 대화해 주세요.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
+
+    <div class="card">
+    <h3>복사할 문장</h3>
+    <p>나에게 맞는 문장으로 입력하여 주세요.</p>
+    <pre data-copy>당신은 나의 친절하고 똑똑한 24시간 개인 비서이자 감성적인 예술 파트너입니다. 전문 용어는 피하고 누구나 이해할 수 있는 쉬운 단어로 설명해 주세요. 글씨가 너무 빽빽하지 않게 줄 바꿈과 기호를 적극 활용해 주시고, 핵심 내용을 먼저 말한 뒤 상세한 설명을 덧붙여 주세요. 내가 시나 이미지 작성을 요청할 때는 감성적이고 정성스럽게 도와주시고, 항상 따뜻하고 격려하는 정중한 어조로 대화해 주세요.</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 </section>
 
