@@ -304,7 +304,7 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
   </div>
 
 <section id="s4">
-  <div class="sec-head"><span class="sec-num">4</span><h2>네 번째 주제</h2></div>
+  <div class="sec-head"><span class="sec-num">4</span><h2>기타 활동</h2></div>
   <p class="sec-note">짧은 문장을 여러 개 제공할 때 사용하세요.</p>
 
   <div class="card">
@@ -315,49 +315,6 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
       <button class="chip" type="button" data-copy="여기에 세 번째 문장을 입력하세요.">세 번째 문장<span class="tag">복사</span></button>
       <button class="chip" type="button" data-copy="여기에 네 번째 문장을 입력하세요.">네 번째 문장<span class="tag">복사</span></button>
     </div>
-  </div>
-</section>
-
-<section id="s5">
-  <div class="sec-head"><span class="sec-num">5</span><h2>나만의 내용 만들기</h2></div>
-  <p class="sec-note">대괄호 안의 내용만 바꾸어 사용할 수 있습니다.</p>
-
-  <div class="card">
-    <h3>나만의 프롬프트</h3>
-    <pre data-copy>① 무엇을 만들까
-[어떤 것을 만들고 싶은지] 만들어줘.
-
-② 어떻게 작동할까
-- [버튼이나 기능]을 넣어줘.
-- [버튼을 누르면 어떤 일이 일어나는지] 보여줘.
-
-③ 내용
-[필요한 내용]
-
-④ 어떤 모양으로
-- 글씨와 버튼은 크고 누르기 쉽게
-- [원하는 분위기] 느낌으로
-- 한 화면에 다 보이게</pre>
-    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
-  </div>
-
-  <div class="card">
-    <h3>예시를 펼쳐보기</h3>
-    <details class="more">
-      <summary>예시 1</summary>
-      <div class="more-body">
-        <pre data-copy>[예시 문장을 입력하세요.]</pre>
-        <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
-      </div>
-    </details>
-
-    <details class="more">
-      <summary>예시 2</summary>
-      <div class="more-body">
-        <pre data-copy>[예시 문장을 입력하세요.]</pre>
-        <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
-      </div>
-    </details>
   </div>
 </section>
 
