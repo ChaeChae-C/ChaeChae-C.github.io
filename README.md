@@ -242,6 +242,31 @@ We have no time to stand and stare.
 </pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
+
+      <div class="card">
+    <h3>복사할 문장</h3>
+    <pre data-copy>Thank you, Mr. Secretary General, UNICEF Executive Director, and all the excellencies and guests from all over the world. My name is Kim Nam-joon, also known as RM, the leader of the group BTS. It is an honor to be invited to an occasion of such significance for today's young generation.
+
+Last November, BTS launched the 'Love Myself' campaign with UNICEF, building on our belief that 'true love first begins with loving myself.' We started to hear remarkable stories from our fans all over the world, how our message helped them overcome their hardships in life and start loving themselves. These stories constantly remind us of our responsibility.
+
+So, let's take one more step. We have learned to love ourselves, so now I urge you to speak yourself. No matter who you are, where you're from, your skin color, your gender identity, speak yourself. Find your name, find your voice by speaking yourself.
+
+I was born in Ilsan, a city near Seoul, Korea. It’s a truly beautiful place with a lake, hills, and even an autumn flower festival. I spent a very happy childhood there, and I was just an ordinary boy. I used to look up at the night sky in wonder and I used to dream the dreams of a boy.
+
+However, I think that when I was about nine or ten, my heart stopped. Looking back, that's when I began to worry about what other people thought of me and started seeing myself through their eyes. I stopped looking up at the night sky. I stopped daydreaming. Instead, I tried to jam myself into the molds that other people made. Soon, I began to shut out my own voice and started to listen to the voices of others. No one called out my name, and neither did I. My heart stopped and my eyes closed.   
+
+And so, I, we, all lost our names. We became like ghosts. But I had one shelter, and that was music. There was a small voice inside of me that said, 'Wake up, man, and listen to yourself!' But it took a long time for me to hear music calling my true name.
+
+Even after joining BTS, there were hurdles. People might not believe it, but sometimes, a lot of people thought we were hopeless. Sometimes I just wanted to quit. But I think I was very lucky that I didn't give all of this up. And I'm sure that I, and we, will keep stumbling and falling like this. BTS has become artists performing in huge stadiums and selling millions of albums, but I am still an ordinary 24-year-old man.
+
+If there's anything I've achieved, it was only possible that I had my members right by me, and with the love and support of our 'ARMY' fans all over the world.
+
+Today, I take all my faults and all my tracks, for who I am, with all my leashes and all my faults. And I'm going to love myself even more, for who I was, who I am, and who I will be.
+
+What is your name? What excites you and makes your heart beat? Tell me your story. I want to hear your voice, and I want to hear your conviction. No matter who you are, where you're from, your skin color, your gender identity: speak yourself. Find your name, find your voice by speaking yourself. Thank you very much.
+</pre>
+    <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
+  </div>
   
 </section>
 
