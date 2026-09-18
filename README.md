@@ -329,9 +329,9 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
     <h3>복사할 문장</h3>
     <pre data-copy>소중한 친구(지인)에게 보낼 추석 인사말을 만들어줘.
 
-대상: 50~60대 친구
+대상: 자주 만나는 친구
 분위기: 정겹고 따뜻하며 부담 없는 느낌 (이모지 포함)
-내용: 그동안의 안부를 묻고, 이번 추석에 맛있는 것 많이 먹고 가족들과 행복한 시간 보내라는 격려의 메시지 포함
+내용: 늘 함께하는 시간에 대해 감사를 표하고, 이번 추석에 맛있는 것 많이 먹고 가족들과 행복한 시간 보내라는 격려의 메시지 포함
 </pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
@@ -354,19 +354,6 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
-<section id="s4">
-  <div class="sec-head"><span class="sec-num">4</span><h2>기타 활동</h2></div>
-  <p class="sec-note">짧은 문장을 여러 개 제공할 때 사용하세요.</p>
-
-  <div class="card">
-    <h3>바로 사용하기</h3>
-    <div class="chips">
-      <button class="chip" type="button" data-copy="여기에 첫 번째 문장을 입력하세요.">첫 번째 문장<span class="tag">복사</span></button>
-      <button class="chip" type="button" data-copy="여기에 두 번째 문장을 입력하세요.">두 번째 문장<span class="tag">복사</span></button>
-      <button class="chip" type="button" data-copy="여기에 세 번째 문장을 입력하세요.">세 번째 문장<span class="tag">복사</span></button>
-      <button class="chip" type="button" data-copy="여기에 네 번째 문장을 입력하세요.">네 번째 문장<span class="tag">복사</span></button>
-    </div>
-  </div>
 </section>
 
 <div class="banner">
