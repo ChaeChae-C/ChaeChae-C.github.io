@@ -160,8 +160,8 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
 </section>
 
 <section id="s2">
-  <div class="sec-head"><span class="sec-num">2</span><h2>두 번째 주제</h2></div>
-  <p class="sec-note">두 번째 주제에 대한 설명을 입력하세요.</p>
+  <div class="sec-head"><span class="sec-num">2</span><h2>요약/번역하기</h2></div>
+  <p class="sec-note">글을 요약하고 다른 나라 언어로 번역할 수 있습니다.</p>
 
   <div class="card">
     <h3>복사할 문장</h3>
@@ -297,7 +297,7 @@ function makeQR() {
 </script>
 
 <footer>
-  <p><b>마치기 전에 꼭</b> — 필요한 안내 문구를 입력하세요.</p>
+  <p><b>마치기 전에 꼭</b> — 로그아웃, 꼭 잊지 말아주세요!</p>
 </footer>
 
 </div>
