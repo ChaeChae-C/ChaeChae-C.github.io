@@ -210,28 +210,28 @@ footer{margin-top:60px;padding-top:22px;border-top:1px solid var(--line);color:v
   <p class="sec-note">글을 요약하고 다른 나라 언어로 번역할 수 있습니다.</p>
 
   <div class="card">
-    <h3>프롬프트 1</h3>
+    <h3>글 요약하기</h3>
     <pre data-copy>https://www.jobkorea.co.kr/recruit/careers/articles/internal-ai-automation-cases
 위의 글 요약해줘</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
-    <h3>프롬프트 2</h3>
+    <h3>영상 요약하기</h3>
     <pre data-copy>https://www.youtube.com/watch?v=R-02LYDHnBo&t=155s
 이 영상을 요약해줘</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
-    <h3>프롬프트 3</h3>
+    <h3>요약+번역하기</h3>
     <pre data-copy>https://www.bbc.com/news/articles/c0m39g7xzevo
 이 기사를 3줄 이내로 요약해서, 한글로 정리해줘</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
     <div class="card">
-    <h3>프롬프트 3</h3>
+    <h3>시 번역하기</h3>
     <pre data-copy>Leisure
  
 By W. H. Davies
@@ -256,28 +256,28 @@ We have no time to stand and stare.
   </div>
 
     <div class="card">
-    <h3>프롬프트 4</h3>
+    <h3>한글->영어로 번역하기</h3>
     <pre data-copy>[오늘 날씨가 정말 좋네요! 좋은 하루 보내시고 주말에 뵙겠습니다.]
 위 한국어 문장을 외국 친구에게 보내는 것처럼, 다정하고 친근한 일상 영어로 번역해 줘.</pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
       <div class="card">
-    <h3>프롬프트 5</h3>
+    <h3>영어로 글쓰기 1</h3>
     <pre data-copy>외국 쇼핑몰 고객센터에 보낼 1:1 문의글을 쓸거야. 물건이 파손되어 도착해서 교환을 받고 싶다는 내용을 명확하고 정중한 비즈니스 톤의 영어로 작성해 줘.
 </pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
       <div class="card">
-    <h3>프롬프트 6</h3>
+    <h3>영어로 글쓰기 2</h3>
     <pre data-copy>외국인 지인의 생일을 진심으로 축하해 주는 문자를 보낼 거야. 생일 진심으로 축하하고, 올해도 좋은 일만 가득하길 바란다는 말을 따뜻하고 다정한 감성으로 영어로 작성해 줘.
 </pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
   </div>
 
       <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>연설문 번역하기</h3>
     <pre data-copy>Thank you, Mr. Secretary General, UNICEF Executive Director, and all the excellencies and guests from all over the world. My name is Kim Nam-joon, also known as RM, the leader of the group BTS. It is an honor to be invited to an occasion of such significance for today's young generation.
 
 Last November, BTS launched the 'Love Myself' campaign with UNICEF, building on our belief that 'true love first begins with loving myself.' We started to hear remarkable stories from our fans all over the world, how our message helped them overcome their hardships in life and start loving themselves. These stories constantly remind us of our responsibility.
@@ -308,7 +308,7 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
   <p class="sec-note">아래 프롬프트를 복사-붙여넣기 해보세요.</p>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>동창회 안내 문자쓰기</h3>
     <pre data-copy>다음 내용을 바탕으로 친구들에게 보낼 친근한 [동창회 안내 문자]를 만들어줘.
 
 모임 이름: [시대고등학교 27회 졸업생] 모임
@@ -320,7 +320,7 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>모임 참여 독려하기</h3>
     <pre data-copy>모임 날짜를 며칠 앞두고, 아직 참석 여부를 알려주지 않은 분들에게 보낼 리마인드(독려) 문자를 작성해줘.
 
 대상: 산악 동호회 모임 회원들
@@ -333,7 +333,7 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>추석 인사말쓰기 1</h3>
     <pre data-copy>소중한 친구(지인)에게 보낼 추석 인사말을 만들어줘.
 
 대상: 자주 만나는 친구
@@ -344,7 +344,7 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>추석 인사말쓰기 2</h3>
     <pre data-copy>오랫동안 연락을 못 하던 지인에게 보내는 어색하지 않은 추석 인사 문구를 작성해줘.
 
 대상: 연락이 뜸했던 사회 지인이나 옛 동료
@@ -355,7 +355,7 @@ What is your name? What excites you and makes your heart beat? Tell me your stor
   </div>
 
     <div class="card">
-    <h3>복사할 문장</h3>
+    <h3>추석 인사말 이미지 만들기</h3>
     <pre data-copy>이 추석 인사 문구를 넣어서, 따뜻하고 정겨운 한옥과 보름달 배경의 이미지를 만들어줘.
 </pre>
     <button class="copy" type="button"><span class="ico">⧉</span>복사하기</button>
